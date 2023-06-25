@@ -1,0 +1,1 @@
+# bot_highprice_up
